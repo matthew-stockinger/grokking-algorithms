@@ -28,3 +28,7 @@ print(binary_search(100, [0, 4, 10, 25, 100, 150, 240]))    # 4
 
 # 1.1   7 steps
 # 1.2   8 steps
+# 1.3   O(log n)
+# 1.4   O(n)
+# 1.5   O(n)
+# 1.6   O(n)
